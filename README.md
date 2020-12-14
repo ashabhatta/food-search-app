@@ -9,6 +9,6 @@ A react app to search food items.
 
 
 # Demo:
-[Foodsearchingapp]() 
+[Foodsearchingapp](https://foodsearchapp.netlify.app/) 
 
 
